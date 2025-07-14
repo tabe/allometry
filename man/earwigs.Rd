@@ -21,7 +21,7 @@ A data frame with twelve variables:
 \item{\code{left_forcep_width}}{Left forcep width (mm)}
 }
 
-For further details, see Tomoki Matsuzawa, Junji Konuma, Positive allometry in the forceps of the female earwig Anisolabis maritima (Dermaptera: Anisolabididae), Biological Journal of the Linnean Society, Volume 145, Issue 2, June 2025, blaf031, \url{https://doi.org/10.1093/biolinnean/blaf031}.
+For further details, see Tomoki Matsuzawa, Junji Konuma, Positive allometry in the forceps of the female earwig Anisolabis maritima (Dermaptera: Anisolabididae), Biological Journal of the Linnean Society, Volume 145, Issue 2, June 2025, blaf031, \doi{10.1093/biolinnean/blaf031}.
 }
 \usage{
 earwigs

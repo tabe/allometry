@@ -19,7 +19,7 @@ library(readr)
 library(usethis)
 
 ## The original dataset was from the Table S1 in the Supplementary Materials for
-## Tomoki Matsuzawa, Junji Konuma, Positive allometry in the forceps of the female earwig Anisolabis maritima (Dermaptera: Anisolabididae), Biological Journal of the Linnean Society, Volume 145, Issue 2, June 2025, blaf031, https://doi.org/10.1093/biolinnean/blaf031"
+## Tomoki Matsuzawa, Junji Konuma, Positive allometry in the forceps of the female earwig Anisolabis maritima (Dermaptera: Anisolabididae), Biological Journal of the Linnean Society, Volume 145, Issue 2, June 2025, blaf031, doi:10.1093/biolinnean/blaf031"
 earwigs <- read_delim("data-raw/earwigs.csv",
                       delim = " ",
                       col_types = "ifdddddddddd")

@@ -1,6 +1,6 @@
 Package: allometry
-Title: Examples of datasets on allometry
-Version: 0.1.0
+Title: Examples of Datasets on Allometry
+Version: 0.1.1
 Authors@R: 
     person(given = "Takeshi",
            family = "Abe",
