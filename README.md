@@ -1,4 +1,10 @@
-# allometry
+# allometry: Examples of Datasets on Allometry
+
+<!-- badges: start -->
+[![CRAN status](https://www.r-pkg.org/badges/version/allometry)](https://CRAN.R-project.org/package=allometry)
+[![R-CMD-check.yaml](https://github.com/tabe/allometry/actions/workflows/check-standard.yaml/badge.svg)](https://github.com/tabe/allometry/actions/workflows/check-standard.yaml)
+[![downloads](https://cranlogs.r-pkg.org/badges/allometry)](https://CRAN.R-project.org/package=allometry)
+<!-- badges: end -->
 
 This package contains the following datasets about allometry:
 
