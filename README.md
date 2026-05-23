@@ -8,8 +8,11 @@
 
 This package contains the following datasets about allometry:
 
-* `earwigs': The morphological measurement of 113 maritime earwigs (Anisolabis maritima).
+* `earwigs`: The morphological measurement of 113 maritime earwigs (Anisolabis maritima).
   (Source: Tomoki Matsuzawa, Junji Konuma, Positive allometry in the forceps of the female earwig Anisolabis maritima (Dermaptera: Anisolabididae), Biological Journal of the Linnean Society, Volume 145, Issue 2, June 2025, blaf031, <https://doi.org/10.1093/biolinnean/blaf031>)
+
+* `helmsi`: The morphological measurement of 507 Helm’s stag beetles (Geodorcus helmsi) from Stewart Island, New Zealand.
+  (Source: L Grey, G I Holwell, J M Jandt, S Johnson, Weapon allometry and shape variation in the Helm’s stag beetle (Geodorcus helmsi), Biological Journal of the Linnean Society, Volume 144, Issue 1, January 2025, blae024, <https://doi.org/10.1093/biolinnean/blae024>)
 
 ## Installation
 
